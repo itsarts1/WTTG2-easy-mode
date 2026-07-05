@@ -2,6 +2,7 @@
 Easy mod allows for you to be a pussy by displaying a notification when the enemies are on the way. 
 
 I DO NOT OWN ANY OF THE CODE THE CODE BELONGS TO REFLECT STUDIOS, I MADE EDITS TO THE ORIGINAL GAME CODE, IT IS ALL FOR FUN!
+All credit goes to @KeVanAlthius for making this mod.
 
 **Instructions:**
 
